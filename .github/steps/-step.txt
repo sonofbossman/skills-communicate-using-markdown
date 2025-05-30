@@ -1,1 +1,4 @@
 4
+```python
+name = input("Enter your name: ")
+```
